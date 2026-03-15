@@ -66,7 +66,7 @@ void moverBispoRec(int direcao, int mover){
 
     }
 
-    moverBispoRec(direcao, mover - 1);
+    moverBispoRec(direcao, mover -1);
 }
 
 int main(){
